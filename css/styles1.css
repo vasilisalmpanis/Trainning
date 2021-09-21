@@ -1,0 +1,113 @@
+body {
+  font: 16px;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+.container {
+  border-radius: 5%;
+  top: 80px;
+  left:42%;
+  position: absolute;
+  margin: 0 auto;
+  width:330px;
+  height:580px;
+  background-color:#FFFFFB;
+  text-align: center;
+  box-shadow: 5px 5px 15px 1px darkgrey;
+}
+
+.music-icon {
+  width: 20%;
+}
+
+h2 {
+  position: relative;
+}
+
+.song-container {
+  box-shadow: 5px 5px 15px 1px darkgrey;
+  border-radius: 5px;
+  top: 6%;
+  position: relative;
+  background-color: #d6d9df;
+  margin:0 auto;
+  width:300px;
+  height:90px;
+}
+
+h1 {
+  font: 10px;
+}
+
+#icon {
+    position: relative;
+    padding:0 5px 0 15px;
+}
+
+.icon-and-text-container {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    right: 5%;
+    position: relative;
+
+}
+
+h4 {
+    color:grey;
+    top: 25px;
+    right: 36%;
+    position: relative;
+}
+
+#change {
+  position: relative;
+  bottom: 50%;
+  left: 30%;
+}
+
+#icon {
+    top:20px;
+    right: 8%;
+    position: relative;
+    width:50px;
+    height:50px;
+}
+
+#illustration {
+  width: 100%;
+  border-top-right-radius: 5%;
+  border-top-left-radius: 5%;
+}
+
+#payment {
+    top:100px;
+    text-align: center;
+    background-color: blue;
+    color:#ffffff;
+    border-radius: 10px;
+    box-shadow: 2px 11px 15px 5px #E3dEFC;
+  }
+#cancel {
+    display: block;
+    width:280px;
+    margin: 0 auto;
+    padding: 10px;
+    text-decoration: none;
+    color:black;
+    position: relative;
+    top:110px;
+    left: 11.5%;
+}
+
+  .btn {
+      display: block;
+      text-decoration: none;
+      width:280px;
+      margin: 0 auto;
+      padding: 10px;
+      position: relative;
+      left: 4.4%;
+  }
